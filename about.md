@@ -8,16 +8,17 @@
 
 ### 教師あり学習の種類の分類
   * 分類問題
-    * ロジスティック回帰
+    * [ロジスティック回帰](https://github.com/NamikoToriyama/machineLearning/tree/master/LogisticRegression)
   * 回帰問題
-    * 線形回帰
-    * 正則化
+    * [線形回帰](https://github.com/NamikoToriyama/machineLearning/tree/master/LinearRegression)
+    * [正則化](https://github.com/NamikoToriyama/machineLearning/tree/master/Regularization)
   * どちらにも含まれる
-    * サポートベクターマシン
-    * ナイーブベイズ
-    * ランダムフォレスト
-    * ニューラルネットワーク
-    * KNN
+    * [サポートベクターマシン](https://github.com/NamikoToriyama/machineLearning/tree/master/SupportVectorMachine)
+    * [サポートベクターマシン](https://github.com/NamikoToriyama/machineLearning/tree/master/SVM(kernel))
+    * [ナイーブベイズ](https://github.com/NamikoToriyama/machineLearning/tree/master/NaiveBayes)
+    * [ランダムフォレスト](https://github.com/NamikoToriyama/machineLearning/tree/master/RandomForest)
+    * [ニューラルネットワーク](https://github.com/NamikoToriyama/machineLearning/tree/master/NeuralNetwork)
+    * [KNN](https://github.com/NamikoToriyama/machineLearning/tree/master/kNN)
 
 ## 教師なし学習
 特徴を表すデータを入力とし、そのデータを変換して別の形式で表現したり、データの中に部集合を見つけたりすることで入力データの構造を理解することができる。結果を解釈するために入力データの前提知識がある程度必要になる。
