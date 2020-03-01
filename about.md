@@ -14,7 +14,7 @@
     * [正則化](https://github.com/NamikoToriyama/machineLearning/tree/master/Regularization)
   * どちらにも含まれる
     * [サポートベクターマシン](https://github.com/NamikoToriyama/machineLearning/tree/master/SupportVectorMachine)
-    * [サポートベクターマシン](https://github.com/NamikoToriyama/machineLearning/tree/master/SVM(kernel))
+    * [サポートベクターマシン(カーネル法)](https://github.com/NamikoToriyama/machineLearning/tree/master/SVM(kernel))
     * [ナイーブベイズ](https://github.com/NamikoToriyama/machineLearning/tree/master/NaiveBayes)
     * [ランダムフォレスト](https://github.com/NamikoToriyama/machineLearning/tree/master/RandomForest)
     * [ニューラルネットワーク](https://github.com/NamikoToriyama/machineLearning/tree/master/NeuralNetwork)
