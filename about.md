@@ -25,15 +25,15 @@
 
 ### 教師なし学習の種類の分類
   * 次元削減
-    * PCA(主成分分析)
-    * LSA(Latent Semantic Analysis)
-    * NMF(Non-negative Matrix Factorization 非負値行列因子分解)
-    * LDA(Latent Dirichlet Allocation 潜在ディリクレ配分法)
-    * LLE (LocallyLinearEmbedding 次元圧縮)
-    * t-SNE(t-Distributed Stochastic Neighbor Embedding)
+    * [PCA](https://github.com/NamikoToriyama/machineLearning/tree/master/PCA)(主成分分析)
+    * [LSA](https://github.com/NamikoToriyama/machineLearning/tree/master/LSA)(Latent Semantic Analysis)
+    * [NMF](https://github.com/NamikoToriyama/machineLearning/tree/master/NMF)(Non-negative Matrix Factorization 非負値行列因子分解)
+    * [LDA](https://github.com/NamikoToriyama/machineLearning/tree/master/LDA)(Latent Dirichlet Allocation 潜在ディリクレ配分法)
+    * [LLE](https://github.com/NamikoToriyama/machineLearning/tree/master/LLE) (LocallyLinearEmbedding 次元圧縮)
+    * [t-SNE](https://github.com/NamikoToriyama/machineLearning/tree/master/t-SNE)(t-Distributed Stochastic Neighbor Embedding)
   * クラスタリング
-    * k-means
-    * 混合ガウスモデル
+    * [k-means](https://github.com/NamikoToriyama/machineLearning/tree/master/k-means)
+    * [混合ガウスモデル](https://github.com/NamikoToriyama/machineLearning/tree/master/GMM)
 
 ### 強化学習
 ある行為に対する報酬を最大化するように行動していき、行為に対して最適解を学習していく学習。
